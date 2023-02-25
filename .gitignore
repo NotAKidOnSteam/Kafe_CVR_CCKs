@@ -6,6 +6,7 @@ bin/
 **out/
 FodyWeavers.xsd
 /.vscode
+.vs/
 NStrip.exe
 lib_names
 ManagedLibs/*.dll
